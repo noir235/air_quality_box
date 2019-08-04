@@ -24,3 +24,5 @@ Components for MQTT - air quality box:
 - SDS011 (PM2.5, PM10 dust sensor)
 - power adapter 12V DC, 2A
 - Small box or case
+
+![wiring picture](https://github.com/noir235/air_quality_box/blob/master/Wiring.png)
